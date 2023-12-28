@@ -1,26 +1,84 @@
-<h1 align="center">Hi 👋, I'm Bashar Beshoti, and RagnarokFate is my online alias on various social media platforms.</h1>
-<h3 align="center">A passionate junior student in computer science</h3>
+<!DOCTYPE html>
+<html lang="en">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ragnarokfate&label=Profile%20views&color=0e75b6&style=flat" alt="ragnarokfate" /> </p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Craziness Unleashed</title>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+        }
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragnarokfate" alt="ragnarokfate" /></a> </p>
+        h1, h3 {
+            color: #ffcc00;
+        }
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+        img {
+            filter: invert(1);
+        }
 
-- ⚡ Fun fact **I laugh at every MEM.**
+        p {
+            margin: 0;
+        }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bashar-beshoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bashar-beshoti" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ragnarokfate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ragnarokfate" height="30" width="40" /></a>
-<a href="https://discord.gg/829489487842639882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="829489487842639882" height="30" width="40" /></a>
-</p>
+        .social-icons img {
+            margin: 5px;
+        }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+        .languages img {
+            margin: 5px;
+        }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragnarokfate&show_icons=true&locale=en&layout=compact" alt="ragnarokfate" /></p>
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-wrap: wrap;
+        }
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragnarokfate&show_icons=true&locale=en" alt="ragnarokfate" /></p>
+        .stats img {
+            width: 40%;
+            margin: 10px;
+        }
+    </style>
+</head>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarokfate&" alt="ragnarokfate" /></p>
+<body>
+
+    <h1 align="center">🚀 Hi there! I'm Bashar Beshoti, a Code Enthusiast with a touch of Madness! 🤪</h1>
+    <h3 align="center">🎓 A wildly passionate junior student in the magical realm of Computer Science 🧙‍♂️</h3>
+
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragnarokfate&label=Profile%20views&color=0e75b6&style=flat" alt="ragnarokfate" /> </p>
+
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragnarokfate" alt="ragnarokfate" /></a> </p>
+
+    <p align="left" class="social-icons"> 
+        <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+    </p>
+
+    <p align="left">⚡ Fun fact: **I laugh at every MEM.** 😜</p>
+
+    <h3 align="left">🌐 Connect with me:</h3>
+    <p align="left" class="social-icons">
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/bashar-beshoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bashar-beshoti" height="30" width="40" /></a>
+        <a href="https://www.youtube.com/c/https://www.youtube.com/@ragnarokfate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ragnarokfate" height="30" width="40" /></a>
+        <a href="https://discord.gg/829489487842639882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="829489487842639882" height="30" width="40" /></a>
+    </p>
+
+    <h3 align="left">💻 Languages and Tools:</h3>
+    <p align="left" class="languages"> 
+        <!-- Insert all the language icons here with the same styling -->
+    </p>
+
+    <div class="stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragnarokfate&show_icons=true&locale=en&layout=compact" alt="ragnarokfate" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ragnarokfate&show_icons=true&locale=en" alt="ragnarokfate" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarokfate&" alt="ragnarokfate" />
+    </div>
+
+</body>
+
+</html>

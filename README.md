@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crazy Code Fiesta 🎉</title>
-</head>
-
-<body style="background-color: #1a1a1a; color: #ffffff; font-family: 'Comic Sans MS', cursive, sans-serif;">
-
     <h1 align="center">🚀 Hi there! I'm Bashar Beshoti, a Code Enthusiast with a touch of Madness! 🤪</h1>
     <h3 align="center">🎓 A wildly passionate junior student in the magical realm of Computer Science 🧙‍♂️</h3>
 
@@ -44,7 +33,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ragnarokfate&show_icons=true&locale=en" alt="ragnarokfate" />
 
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarokfate&" alt="ragnarokfate" />
-
-</body>
-
-</html>

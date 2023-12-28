@@ -90,8 +90,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RagnarokFate/count.svg?"  />
-</div>
-
 ###

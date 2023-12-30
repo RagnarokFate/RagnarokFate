@@ -75,7 +75,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragnarokfate&show_icons=true&locale=en" alt="ragnarokfate" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarokfate&" alt="ragnarokfate" /></p>
-###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/bashar-beshoti" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />

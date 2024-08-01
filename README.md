@@ -18,11 +18,15 @@
 
 ###
 
-<p align="left">Skills:</p>
-
+<h2 align="left">Skills & Achievements 🌟</h2>
+  
 ###
-
-<p align="left">Skills & Achievements 🌟<br>- Proficient in {C, C++, C#, and Java Programming Languages and Python}<br>- Successfully completed a full-stack development course<br>- Currently pursuing my degree with an expected graduation in the summer of 2024<br>- Seasoned website developer with hands-on experience<br>- Familiarity with operating systems at a basic level</p>
+<p align="left">
+  - Proficient in {C, C++, C#, and Java Programming Languages and Python}<br>
+  - Successfully completed a full-stack development course<br>
+  - Currently pursuing my degree with an expected graduation in the summer of 2024<br>
+  - Seasoned website developer with hands-on experience<br>
+  - Familiarity with operating systems at a basic level</p>
 
 ###
 

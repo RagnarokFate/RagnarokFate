@@ -10,61 +10,43 @@
 
 ###
 
-<h2 align="left">About Me 🚀</h2>
-
-###
-
-<p align="left">- Currently, I'm immersed in enhancing my skills and acquiring hands-on experience through diverse software development projects.<br>- I'm always on the lookout for new technologies, embracing a journey of continuous learning to stay abreast of the latest tech trends.<br>- Feel free to ask me anything related to software development; I'm here to assist!<br>- Beyond coding, my interests extend to playing the violin and indulging in the captivating world of anime. 🎻🌟</p>
-
-###
-
-<h2 align="left">Skills & Achievements 🌟</h2>
-  
-###
-<p align="left">
-  - Proficient in {C, C++, C#, and Java Programming Languages and Python}<br>
-  - Successfully completed a full-stack development course<br>
-  - Currently pursuing my degree with an expected graduation in the summer of 2024<br>
-  - Seasoned website developer with hands-on experience<br>
-  - Familiarity with operating systems at a basic level</p>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bots" height="30" alt="abbrobotstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="30" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RagnarokFate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RagnarokFate&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://media3.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif?cid=ecf05e47wf9tgl4x60mmf8wus08ti2snhyv8fe5q8fmdwaf4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="240" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwzdHp6ejF6cG04cm1yYjBwamNvZDJybW9sZzk0MWF6eGlxa3I2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UEwgbxjsG3xC0/200.webp"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a herf = "https://www.linkedin.com/in/bashar-beshoti" > <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+  <a herf = "https://www.youtube.com/@RagnarokFate" > <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
+  <a herf = "https://www.twitch.tv/ragnarokfate" > <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> </a>
+  <a herf = "https://discord.gg/sAm7mRe4mf" > <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
+</div> 
 
 ###
 
@@ -74,30 +56,9 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragnarokfate&show_icons=true&locale=en&layout=compact" alt="ragnarokfate" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragnarokfate&show_icons=true&locale=en" alt="ragnarokfate" /></p>
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarokfate&" alt="ragnarokfate" /></p> -->
-
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/bashar-beshoti" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/sAm7mRe4mf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@RagnarokFate" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/ragnarokfate" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://www.instagram.com/bashar_bshoty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ragnarokfate&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
+

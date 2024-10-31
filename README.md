@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RagnarokFate/count.svg?"  />
+</div>
+
+###
+
 <p align="left">Greetings on my GitHub profile! I'm a a junior. Computer Science student and an avid junior software developer with a passion for a variety of subjects, including computer graphics, computer vision, image processing, and software engineering. Additionally, I have a side hobby and minor interest in animation and sound creation.</p>
 
 ###

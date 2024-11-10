@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Bashar Beshoti, also known as RagnarokFate across all media platforms. A 23-year-old soul navigating through life. Welcome to my world!</h2>
+<h2 align="center">Bashar Beshoti, also known as RagnarokFate across all media platforms. A 24-year-old soul navigating through life. Welcome to my world!</h2>
 
 ###
 
